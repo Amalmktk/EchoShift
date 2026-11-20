@@ -1,0 +1,21 @@
+id: w1_l08
+name: Echo Limit
+world: 1
+number: 8
+echoes: 1
+par: 1
+moves: 14
+needs_echo: true
+exit: a,b
+hint1: The exit needs both plates pressed, and you only get one echo.
+hint2: Your echo takes the far plate. You press the plate next to the exit, then step across.
+hint3: Run 1 - right four times onto the top plate, then tap Echo. Run 2 - down twice, right four times through the crystal, down twice, left three times onto the plate, then left onto the exit.
+map:
+#######
+#S...a#
+#.#####
+#...*.#
+#####.#
+#Xb...#
+#######
+solution: RRRR | DDRRRRDDLLLL

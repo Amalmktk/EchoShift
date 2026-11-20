@@ -1,0 +1,23 @@
+id: w1_l20
+name: The Gatekeeper
+world: 1
+number: 20
+echoes: 1
+par: 1
+moves: 12
+needs_echo: true
+boss: true
+exit: a,b,c
+hint1: The gate has three seals - two plates and a switch - and all three must be on at once.
+hint2: You open the top door for your echo. It passes through, bumps the switch and takes the far plate. You take the last plate beside the gate.
+hint3: Run 1 - right five times (bumping the closed door), down twice, then tap Echo. Run 2 - down four times, right four times past the crystal onto the plate, then down through the gate.
+map:
+#######
+#S.D.2#
+#.##.##
+#d##a##
+#.#####
+#.*..c#
+#####X#
+#######
+solution: RRRRRDD | DDDDRRRRD

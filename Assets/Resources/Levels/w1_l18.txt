@@ -1,0 +1,20 @@
+id: w1_l18
+name: Garden Gauntlet
+world: 1
+number: 18
+echoes: 1
+par: 1
+moves: 23
+needs_echo: true
+hint1: Everything you have learned is here: a plate for your echo, a switch, and spikes with a rhythm.
+hint2: Your echo holds the top plate. Inside, time your steps across the spikes, bump the switch on the left, then cross back.
+hint3: Run 1 - left three times, then tap Echo. Run 2 - left, wait twice, down, wait, down, left twice, down to bump the switch, wait, right four times, down twice, then left four times past the crystal to the exit.
+map:
+#######
+#a..S.#
+###A###
+#.;!;.#
+#2###B#
+#X*...#
+#######
+solution: LLL | LWWDWDLLDWRRRRDDLLLL

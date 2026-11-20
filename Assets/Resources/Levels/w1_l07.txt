@@ -1,0 +1,20 @@
+id: w1_l07
+name: Locked Path
+world: 1
+number: 7
+echoes: 1
+par: 1
+moves: 15
+needs_echo: true
+hint1: There are two plates. Only one of them is out of your reach once you are inside.
+hint2: Give your echo the top plate. You can open the second door yourself, because its plate is right next to it.
+hint3: Run 1 - right four times onto the top plate, then tap Echo. Run 2 - down twice, wait twice, right three times onto the second plate, down twice through its door, then left three times past the crystal to the exit.
+map:
+#######
+#S...a#
+#.#####
+#.A.b.#
+####B##
+#X*...#
+#######
+solution: RRRR | DDWWRRRDDLLL

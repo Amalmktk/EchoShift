@@ -1,0 +1,20 @@
+id: w1_l06
+name: The Gap
+world: 1
+number: 6
+echoes: 1
+par: 1
+moves: 21
+needs_echo: true
+hint1: One plate can open more than one door of the same colour.
+hint2: Park your echo on the plate. Both doors stay open for as long as it stands there.
+hint3: Run 1 - down four times onto the plate, then tap Echo. Run 2 - right twice, wait twice, right twice for the crystal, left four times, down twice, right four times, then down twice to the exit.
+map:
+#######
+#S..A*#
+#.#####
+#.A...#
+#.###.#
+#a###X#
+#######
+solution: DDDD | RRWWRRLLLLDDRRRRDD

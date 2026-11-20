@@ -1,0 +1,22 @@
+id: w2_l18
+name: Falcon Signals
+world: 2
+number: 38
+echoes: 2
+par: 2
+moves: 8
+timer: 3
+needs_echo: true
+hint1: Both beacon switches must be lit at the same time, and each stays lit for only three turns.
+hint2: Send an echo to each beacon so they light on the same turn, then time your arrival at the exit.
+hint3: Run 1 - left three times, then up to light the left beacon. Tap Echo. Run 2 - right three times, then up. Tap Echo. Run 3 - down twice for the crystal, wait twice, then down to the exit.
+exit: a,b
+map:
+#########
+#6.....7#
+#...S...#
+####.####
+####*####
+####X####
+#########
+solution: LLLU | RRRU | DDWWD

@@ -1,0 +1,20 @@
+id: w2_l06
+name: Two Echoes
+world: 2
+number: 26
+echoes: 2
+par: 2
+moves: 6
+needs_echo: true
+hint1: The exit needs both plates pressed at the same time. You can now make two echoes.
+hint2: Send one echo to each plate, then walk to the exit yourself.
+hint3: Run 1 - left twice, then tap Echo. Run 2 - right twice, then tap Echo. Run 3 - down three times.
+exit: a,b
+map:
+#######
+#a.S.b#
+###.###
+#..*..#
+###X###
+#######
+solution: LL | RR | DDD

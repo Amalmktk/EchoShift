@@ -1,0 +1,18 @@
+id: w1_l14
+name: Double Plate
+world: 1
+number: 14
+echoes: 1
+par: 1
+moves: 10
+needs_echo: true
+hint1: This time you hold a plate so your echo can get through a door.
+hint2: Echoes repeat moves, not positions. Record walking right into the closed door, and in the next run it will walk through.
+hint3: Run 1 - swipe right five times (you will bump the closed door), then tap Echo. Run 2 - down twice onto the plate, right, wait twice, then right three times through the door, the crystal and the exit.
+map:
+#######
+#S.A.b#
+#.#####
+#a.B*X#
+#######
+solution: RRRRR | DDRWWRRR

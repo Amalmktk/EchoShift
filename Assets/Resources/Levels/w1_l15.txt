@@ -1,0 +1,18 @@
+id: w1_l15
+name: Spike Rhythm
+world: 1
+number: 15
+echoes: 0
+par: 0
+moves: 14
+needs_echo: false
+hint1: These spikes rise and fall every turn. Watch which ones are up before you move.
+hint2: Wait spends one turn without moving. Use it to get in step with the spikes.
+hint3: Wait once, right four times for the crystal, down twice, left once, wait once, then left three times to the exit.
+map:
+#######
+#S!;.*#
+#####!#
+#X;!..#
+#######
+solution: WRRRRDDLWLLL

@@ -1,0 +1,20 @@
+id: w2_l16
+name: Skyline
+world: 2
+number: 36
+echoes: 2
+par: 2
+moves: 13
+needs_echo: true
+hint1: One plate extends the bridge and the other opens the door. Neither is near enough to hold yourself.
+hint2: The wind row is a fast lane for an echo heading to the lower plate.
+hint3: Run 1 - left twice onto the top plate, then tap Echo. Run 2 - down twice, then left three times and the wind carries you to the plate. Tap Echo. Run 3 - down four times across the bridge, then left six times through the door, past the crystal, to the exit.
+map:
+#########
+#....a.S#
+#######.#
+#b<<<<<.#
+#######f#
+#X*.B...#
+#########
+solution: LL | DDLLL | DDDDLLLLLL

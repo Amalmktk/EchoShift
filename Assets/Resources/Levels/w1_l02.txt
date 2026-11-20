@@ -1,0 +1,18 @@
+id: w1_l02
+name: The First Plate
+world: 1
+number: 2
+echoes: 0
+par: 0
+moves: 14
+needs_echo: false
+hint1: The round plate opens the door with the same colour.
+hint2: A door stays open while you stand in it, even after you step off the plate.
+hint3: Walk right onto the plate, go down through the door, then walk left to the exit.
+map:
+#######
+#S.*.a#
+#####A#
+#X....#
+#######
+solution: RRRRDDLLLL

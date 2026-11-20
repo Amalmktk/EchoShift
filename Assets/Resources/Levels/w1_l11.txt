@@ -1,0 +1,19 @@
+id: w1_l11
+name: Wait Here
+world: 1
+number: 11
+echoes: 1
+par: 1
+moves: 9
+needs_echo: true
+exit: b
+hint1: Your echo can step on a plate and keep walking. The door is open only while it stands there.
+hint2: Send the echo along the top past both plates. Count the turns and step into the door right after the echo reaches the first plate.
+hint3: Run 1 - up twice, then left four times onto the far plate, then tap Echo. Run 2 - left for the crystal, wait three times, then left three times through the door to the exit.
+map:
+#######
+#b.a..#
+#####.#
+#X.A*S#
+#######
+solution: UULLLL | LWWWLLL

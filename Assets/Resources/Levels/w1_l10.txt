@@ -1,0 +1,20 @@
+id: w1_l10
+name: Practice Room
+world: 1
+number: 10
+echoes: 1
+par: 1
+moves: 16
+needs_echo: true
+hint1: One plate is far from its door. The other sits right next to its door.
+hint2: Your echo holds the plate on the left. Inside, the second plate is yours to press on the way to its door.
+hint3: Run 1 - down twice onto the plate, then tap Echo. Run 2 - right, wait, right through the door, right, down twice onto the plate, left for the crystal, right, down twice through the door, then left three times to the exit.
+map:
+#######
+#S.A..#
+#.##.##
+#a#*b.#
+####B##
+#X...##
+#######
+solution: DD | RWRRDDLRDDLLL

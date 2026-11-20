@@ -1,0 +1,22 @@
+id: w1_l12
+name: Long Hold
+world: 1
+number: 12
+echoes: 1
+par: 1
+moves: 25
+needs_echo: true
+hint1: The plate is a long walk away, and so is the door. Your echo can wait as long as you need.
+hint2: Record the walk to the plate. Then follow the same path and keep going down to the door.
+hint3: Run 1 - right four, down two, left four onto the plate, then tap Echo. Run 2 - repeat those ten moves, then down two, right four, down two through the door, then left four past the crystal to the exit.
+map:
+#######
+#S....#
+#####.#
+#a....#
+#.#####
+#.....#
+#####A#
+#X*...#
+#######
+solution: RRRRDDLLLL | RRRRDDLLLLDDRRRRDDLLLL

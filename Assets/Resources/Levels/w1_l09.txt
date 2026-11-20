@@ -1,0 +1,20 @@
+id: w1_l09
+name: Split Route
+world: 1
+number: 9
+echoes: 1
+par: 1
+moves: 12
+needs_echo: true
+hint1: The plate is up and the door is down. You can't be in both places.
+hint2: Echoes can't pick up crystals. Your echo heads for the plate while you grab the crystal and go down.
+hint3: Run 1 - up twice, right three times onto the plate, then tap Echo. Run 2 - up twice for the crystal, down four times, then right four times through the door to the exit.
+map:
+#######
+#*..a.#
+#.###.#
+#S....#
+#.#####
+#..A.X#
+#######
+solution: UURRR | UUDDDDRRRR

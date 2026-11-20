@@ -1,0 +1,20 @@
+id: w1_l16
+name: Switch and Hold
+world: 1
+number: 16
+echoes: 1
+par: 1
+moves: 23
+needs_echo: true
+hint1: A switch stays on once you bump it. The plate only works while someone stands on it.
+hint2: Leave your echo on the plate. Go through its door, bump the switch, then head back out to the other door.
+hint3: Run 1 - left three times onto the plate, then tap Echo. Run 2 - left, wait twice, down twice, left twice to bump the switch, right, up twice, right twice, down four times through the far door, then left four times past the crystal to the exit.
+map:
+#######
+#a..S.#
+###A#.#
+#2..#.#
+#####B#
+#X*...#
+#######
+solution: LLL | LWWDDLLRUURRDDDDLLLL

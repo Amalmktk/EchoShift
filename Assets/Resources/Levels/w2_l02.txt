@@ -1,0 +1,18 @@
+id: w2_l02
+name: Wind Lane
+world: 2
+number: 22
+echoes: 1
+par: 0
+moves: 12
+needs_echo: false
+hint1: Arrow tiles are wind. Stepping onto one pushes you one extra tile in its direction.
+hint2: Wind only pushes when you step onto it. Leave the lane before it blows you into the spikes.
+hint3: Swipe right once and the wind carries you two tiles. Then go down twice, right twice for the crystal, and left four times to the exit.
+map:
+#######
+#S>>>^#
+###.###
+#X...*#
+#######
+solution: RDDRRLLLL

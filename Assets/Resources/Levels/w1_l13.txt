@@ -1,0 +1,21 @@
+id: w1_l13
+name: Hidden Crystal
+world: 1
+number: 13
+echoes: 1
+par: 1
+moves: 18
+needs_echo: true
+hint1: The exit is easy to reach once the door opens. The crystal is tucked away just past it.
+hint2: After the door, look up. There is a narrow passage with the crystal at the top.
+hint3: Run 1 - right twice, down three times onto the plate, then tap Echo. Run 2 - left twice, down four times, right twice through the door, up twice for the crystal, down three times, then right twice to the exit.
+map:
+#######
+#..S..#
+#.###.#
+#.#*#.#
+#.#.#a#
+#.A.###
+#.#..X#
+#######
+solution: RRDDD | LLDDDDRRUUDDDRR

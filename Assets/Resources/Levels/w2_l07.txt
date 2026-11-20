@@ -1,0 +1,21 @@
+id: w2_l07
+name: Crosswind
+world: 2
+number: 27
+echoes: 2
+par: 0
+moves: 14
+needs_echo: false
+hint1: Wind can't push you into a wall. A wind tile next to a wall is a safe place to cross.
+hint2: Cross the first wind row at its right end and the second at its left end.
+hint3: Go right four times for the crystal, then down three times. Go left twice and the wind carries you to the left wall. Then go down twice to the exit.
+map:
+#######
+#S...*#
+#>>>>>#
+#^^^^.#
+#<<<<<#
+#.^^^^#
+#X....#
+#######
+solution: RRRRDDDLLDD

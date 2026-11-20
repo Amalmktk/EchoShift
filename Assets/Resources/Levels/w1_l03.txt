@@ -1,0 +1,19 @@
+id: w1_l03
+name: A Second You
+world: 1
+number: 3
+echoes: 1
+par: 1
+moves: 14
+needs_echo: true
+hint1: The plate is too far from the door to hold it yourself. Tap Echo to get help.
+hint2: Walk down onto the plate, then tap Echo. Your echo will repeat those moves and stay on the plate.
+hint3: Run 1 - down, down, down, then tap Echo. Run 2 - collect the crystal, come back, go down twice, then right through the door to the exit.
+map:
+#######
+#S..*.#
+#.#####
+#.A..X#
+#a#####
+#######
+solution: DDD | RRRLLLDDRRRR

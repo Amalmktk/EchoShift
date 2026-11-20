@@ -1,0 +1,20 @@
+id: w2_l14
+name: Timed Door
+world: 2
+number: 34
+echoes: 2
+par: 1
+moves: 15
+timer: 3
+needs_echo: true
+hint1: Both doors listen to the same timed switch, but they are too far apart for one press.
+hint2: Bumping a timed switch again restarts its timer. An echo can keep bumping it every turn.
+hint3: Run 1 - right ten times. The last five bump the switch again and again. Tap Echo. Run 2 - down twice, wait four times, right six times through both doors, then down to the exit.
+map:
+#########
+#S.....6#
+#.#######
+#.A.*.A.#
+#######X#
+#########
+solution: RRRRRRRRRR | DDWWWWRRRRRRD

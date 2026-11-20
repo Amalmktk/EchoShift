@@ -1,0 +1,20 @@
+id: w1_l17
+name: No Mistakes
+world: 1
+number: 17
+echoes: 1
+par: 1
+moves: 14
+needs_echo: true
+hint1: Your echo can do two jobs in one run: pass over the plate, then bump the switch.
+hint2: The door opens for just one turn as your echo crosses the plate. Be right beside it.
+hint3: Run 1 - right four times (the last one bumps the switch), then tap Echo. Run 2 - down twice, right four times through the door and the crystal, down twice, then left four times to the exit.
+map:
+#######
+#S.a.3#
+#.#####
+#.A.*.#
+#####C#
+#X....#
+#######
+solution: RRRR | DDRRRRDDLLLL

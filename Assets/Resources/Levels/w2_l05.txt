@@ -1,0 +1,21 @@
+id: w2_l05
+name: Cloud Crystal
+world: 2
+number: 25
+echoes: 1
+par: 1
+moves: 18
+needs_echo: true
+hint1: One plate controls both bridges. Someone has to stay on it.
+hint2: Let your echo hold the plate. The left bridge leads to the crystal, the right one to the exit.
+hint3: Run 1 - right four times onto the plate, then tap Echo. Run 2 - down twice, wait twice, down twice for the crystal, up twice, right four times, then down three times to the exit.
+map:
+#######
+#S...a#
+#.#####
+#.....#
+#f~~~f#
+#*###.#
+#####X#
+#######
+solution: RRRR | DDWWDDUURRRRDDD

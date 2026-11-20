@@ -1,0 +1,20 @@
+id: w1_l05
+name: Two Actions
+world: 1
+number: 5
+echoes: 1
+par: 1
+moves: 15
+needs_echo: true
+hint1: While your echo holds the plate, you are free to go the long way round.
+hint2: Record a run straight down to the plate. Then take the right-hand corridor to the door.
+hint3: Run 1 - down four times onto the plate, then tap Echo. Run 2 - right four times, down four times, left twice for the crystal, then up twice to the exit.
+map:
+#######
+#S....#
+#.###.#
+#.#X#.#
+#.#.#.#
+#a#*A.#
+#######
+solution: DDDD | RRRRDDDDLLUU

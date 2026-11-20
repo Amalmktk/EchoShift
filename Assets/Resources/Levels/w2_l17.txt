@@ -1,0 +1,24 @@
+id: w2_l17
+name: Updraft
+world: 2
+number: 37
+echoes: 2
+par: 1
+moves: 11
+needs_echo: true
+hint1: The plate at the bottom opens the door at the top. The stairs on the right are too slow.
+hint2: The updraft lifts you two tiles with every step up.
+hint3: Run 1 - left twice onto the plate, then tap Echo. Run 2 - up four times through the updraft, right for the crystal, then left three times through the door to the exit.
+map:
+#######
+#XA.*.#
+###u#.#
+###u#.#
+###u#.#
+###u#.#
+###u#.#
+###u#.#
+###u#.#
+#a.S..#
+#######
+solution: LL | UUUURLLL

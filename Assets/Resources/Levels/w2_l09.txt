@@ -1,0 +1,20 @@
+id: w2_l09
+name: Crumbling Path
+world: 2
+number: 29
+echoes: 2
+par: 0
+moves: 9
+needs_echo: false
+hint1: Cracked tiles break into a gap once you step off them. You can cross each one only once.
+hint2: The crystal sits below the cracked path. Keep moving forward and don't turn back.
+hint3: Go right twice, then down four times.
+map:
+#######
+#S%%%.#
+#.#%#.#
+#.#*#.#
+#.#.#.#
+#..X..#
+#######
+solution: RRDDDD

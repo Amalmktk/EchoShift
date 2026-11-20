@@ -1,0 +1,21 @@
+id: w2_l12
+name: Bridge and Hold
+world: 2
+number: 32
+echoes: 2
+par: 2
+moves: 10
+needs_echo: true
+hint1: Each bridge has its own plate, and both plates are far from the bridges.
+hint2: Put one echo on each plate, then cross both bridges.
+hint3: Run 1 - left three times, then tap Echo. Run 2 - right three times, then tap Echo. Run 3 - down once, wait twice, then down four times to the exit.
+map:
+#########
+#a..S..b#
+####.####
+#~~~f~~~#
+#...*...#
+#~~~g~~~#
+#...X...#
+#########
+solution: LLL | RRR | DWWDDDD

@@ -1,0 +1,21 @@
+id: w1_l19
+name: Gatekeeper Prep
+world: 1
+number: 19
+echoes: 1
+par: 1
+moves: 11
+needs_echo: true
+exit: a,b
+hint1: The exit needs the switch and the plate on at the same time.
+hint2: One run can do both jobs. Bump the switch, then walk down to the plate.
+hint3: Run 1 - right twice to bump the switch, left, down three times onto the plate, then tap Echo. Run 2 - down twice, right four times for the crystal, then down twice to the exit.
+map:
+#######
+#S.1###
+#.#####
+#....*#
+#b###.#
+#####X#
+#######
+solution: RRLDDD | DDRRRRDD

@@ -1,0 +1,21 @@
+id: w2_l04
+name: Timed Relay
+world: 2
+number: 24
+echoes: 1
+par: 1
+moves: 14
+timer: 3
+needs_echo: true
+hint1: The timed switch opens the door for only three turns. It is too far away to make it yourself.
+hint2: Let your echo wait a few turns before it hits the switch, so the door opens just as you arrive.
+hint3: Run 1 - wait four times, then go right six times to hit the switch, then tap Echo. Run 2 - down twice, right five times for the crystal, left twice, wait once, then down twice through the door to the exit.
+map:
+#########
+#S.....6#
+#.#######
+#.....*.#
+####A####
+#...X...#
+#########
+solution: WWWWRRRRRR | DDRRRRRLLWDD

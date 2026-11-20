@@ -1,0 +1,47 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE and OS
+.vs/
+.vscode/
+.idea/
+*.csproj
+!tests/**/*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+
+# .NET test build output
+tests/**/bin/
+tests/**/obj/
+TestResults/
+
+# Builds and signing. Never commit keystores or their passwords.
+*.apk
+*.aab
+*.keystore
+*.jks
+keystore.properties
+
+# Crashlytics and SDK generated files
+crashlytics-build.properties
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*

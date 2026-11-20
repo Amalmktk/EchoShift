@@ -1,0 +1,22 @@
+id: w2_l13
+name: Wind Timing
+world: 2
+number: 33
+echoes: 2
+par: 1
+moves: 16
+needs_echo: true
+hint1: The door at the bottom needs the plate held. The way down crosses two wind rows and two rising spikes.
+hint2: Cross each wind row where it pushes you into a wall. Count your turns: the rising spikes are down on odd turns.
+hint3: Run 1 - left three times onto the plate, then tap Echo. Run 2 - left twice for the crystal, right three times, down three times, left twice, then down three times through the door to the exit.
+map:
+#######
+#a*.S.#
+#>>>>>#
+#^^^^;#
+#<<<<<#
+#;^^^^#
+#A#####
+#X#####
+#######
+solution: LLL | LLRRRDDDLLDDD

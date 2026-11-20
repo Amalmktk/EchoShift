@@ -1,0 +1,18 @@
+id: w2_l08
+name: Sky Bridge
+world: 2
+number: 28
+echoes: 2
+par: 1
+moves: 14
+needs_echo: true
+hint1: The switch far to the left extends the bridge. Walking there and back takes too many moves.
+hint2: Let an echo walk to the switch while you head straight for the bridge.
+hint3: Run 1 - left six times to hit the switch, then tap Echo. Run 2 - down twice, wait four times, then left six times across the bridge to the exit.
+map:
+#########
+#1.....S#
+#######.#
+#X.*..f.#
+#########
+solution: LLLLLL | DDWWWWLLLLLL

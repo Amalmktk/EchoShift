@@ -1,0 +1,20 @@
+id: w2_l11
+name: Switchback
+world: 2
+number: 31
+echoes: 2
+par: 1
+moves: 18
+needs_echo: true
+hint1: The platform glides left, turns back at the end of the gap, and glides right again.
+hint2: Your echo can ride the platform out to the plate. Watch when it comes back to the left end.
+hint3: Run 1 - down twice, wait twice, step right onto the platform, wait three times while it carries you, then step right onto the plate and tap Echo. Run 2 - right twice for the crystal, left twice, down twice, wait three times, then down twice and right five times to the exit.
+map:
+#########
+#S.*....#
+#.#######
+#.~~~~=a#
+#A#######
+#.....X.#
+#########
+solution: DDWWRWWWR | RRLLDDWWWDDRRRRR

@@ -1,0 +1,23 @@
+id: w2_l20
+name: The Chrono Falcon
+world: 2
+number: 40
+echoes: 2
+par: 2
+moves: 16
+timer: 3
+needs_echo: true
+boss: true
+hint1: The Falcon's gate needs three beacons: two plates and the timed beacon in the middle.
+hint2: One echo rides the platform to the left plate, the other takes the updraft to the right plate. You light the last beacon and dash to the gate.
+hint3: Run 1 - wait twice, step up onto the platform, wait twice, then up twice onto the left plate. Tap Echo. Run 2 - right three times, up twice. Tap Echo. Run 3 - down, left for the crystal, right four times, up twice, left twice, left to light the beacon, up, then left to the gate.
+exit: a,b,c
+map:
+#########
+#a..X!.b#
+#...8...#
+#~~~~~=u#
+#...S...#
+#..*....#
+#########
+solution: WWUWWUU | RRRUU | DLRRRRUULLLUL

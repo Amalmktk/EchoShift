@@ -1,0 +1,22 @@
+id: w2_l19
+name: Storm Approach
+world: 2
+number: 39
+echoes: 2
+par: 2
+moves: 14
+timer: 3
+needs_echo: true
+hint1: The exit needs both beacons lit, and the storm winds push you away from the short cuts.
+hint2: Plan your own route first, then make the echoes wait so both beacons light just before you reach the exit.
+hint3: Run 1 - wait five times, left three times, up twice. Tap Echo. Run 2 - wait five times, right three times, up twice. Tap Echo. Run 3 - down, left for the crystal, down, right four times, up twice, left, then up twice to the exit.
+exit: a,b
+map:
+#########
+#6..X..7#
+#.<<.>>.#
+#...S...#
+#*<<<...#
+#.......#
+#########
+solution: WWWWWLLLUU | WWWWWRRRUU | DLDRRRRUULUU

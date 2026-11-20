@@ -1,0 +1,26 @@
+* text=auto
+
+*.cs text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.mjs text eol=lf
+*.asmdef text eol=lf
+
+# Unity YAML
+*.unity text eol=lf merge=unityyamlmerge
+*.prefab text eol=lf merge=unityyamlmerge
+*.asset text eol=lf merge=unityyamlmerge
+*.meta text eol=lf
+
+# Binary art and audio. Turn on Git LFS for these once real assets arrive:
+#   git lfs install && git lfs track "*.png" "*.psd" "*.wav" "*.ogg" "*.ttf"
+*.png binary
+*.jpg binary
+*.psd binary
+*.wav binary
+*.ogg binary
+*.mp3 binary
+*.ttf binary
+*.otf binary

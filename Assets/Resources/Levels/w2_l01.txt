@@ -1,0 +1,20 @@
+id: w2_l01
+name: Skyward
+world: 2
+number: 21
+echoes: 1
+par: 0
+moves: 12
+needs_echo: false
+hint1: The dark tiles are gaps. A bridge appears over the gap while its plate is pressed.
+hint2: A bridge never disappears while you stand on it, so step onto it straight from the plate.
+hint3: Go right three times for the crystal, down once, left onto the plate, then down three times and right to the exit.
+map:
+#######
+#S..*.#
+#..a..#
+#~~f~~#
+#.....#
+#...X.#
+#######
+solution: RRRDLDDDR

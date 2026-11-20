@@ -1,0 +1,20 @@
+id: w2_l15
+name: Crumble Run
+world: 2
+number: 35
+echoes: 2
+par: 2
+moves: 10
+needs_echo: true
+hint1: Both plates sit beyond a cracked path, and your first echo breaks it as it walks.
+hint2: Your second run must follow the first echo up the path without stopping, or the tiles will be gone.
+hint3: Run 1 - up three times, left three times, then tap Echo. Run 2 - up three times, right three times, then tap Echo. Run 3 - left twice for the crystal, then right five times to the exit.
+exit: a,b
+map:
+#########
+#a%%%%%b#
+####%####
+####%####
+#.*.S..X#
+#########
+solution: UUULLL | UUURRR | LLRRRRR

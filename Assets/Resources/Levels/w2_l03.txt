@@ -1,0 +1,20 @@
+id: w2_l03
+name: Sky Steps
+world: 2
+number: 23
+echoes: 1
+par: 0
+moves: 12
+needs_echo: false
+hint1: The platform moves one tile every turn and turns back at the walls.
+hint2: Step onto the platform when it is right below you. It carries you, then step off on the far side.
+hint3: Go right three times for the crystal, down once, wait once, then down onto the platform. Step down twice more and go right to the exit.
+map:
+#######
+#S..*.#
+#.....#
+#=~~~~#
+#.....#
+#...X.#
+#######
+solution: RRRDWDDDR

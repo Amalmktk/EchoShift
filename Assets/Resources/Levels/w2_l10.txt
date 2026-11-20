@@ -1,0 +1,18 @@
+id: w2_l10
+name: High Route
+world: 2
+number: 30
+echoes: 2
+par: 1
+moves: 13
+needs_echo: true
+hint1: The door needs the plate held, and the only way round is the high route over the spikes.
+hint2: The spikes rise and fall each turn. Keep walking without stopping and they will always be down when you land.
+hint3: Run 1 - down twice onto the plate, then tap Echo. Run 2 - right six times across the spikes and the crystal, down twice, then left twice through the door to the exit.
+map:
+#########
+#S.!;!*.#
+#.#####.#
+#a###XA.#
+#########
+solution: DD | RRRRRRDDLL
